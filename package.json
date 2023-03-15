@@ -1,0 +1,18 @@
+{
+  "name": "lb-jest-disconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@loopback/repository": "^5.1.4",
+    "loopback-connector-mongodb": "^6.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
